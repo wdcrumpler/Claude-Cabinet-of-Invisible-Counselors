@@ -1,1 +1,1 @@
-# Claude-Cabinet-of-Invisible-Counselors
+# Claude Cabinet of Invisible Counselors
