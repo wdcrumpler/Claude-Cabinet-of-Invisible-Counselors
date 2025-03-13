@@ -5,6 +5,8 @@ Have Claude (or whichever LLM you prefer) simulate an ongoing cabinet meeting wi
 
 The idea for this was sparked when I saw [this QC tweet](https://x.com/QiaochuYuan/status/1854250814841467008) about how helpful people had found it to have conversations with a particular persona he had invented: "[Esmeralda Nightshade, a wise and whip-smart tarot reader](https://x.com/QiaochuYuan/status/1852517808619589776)." After experimenting a bit with QC's Esmeralda persona, I suddenly remembered an article I had read many years back on Art of Manliness about [Napoleon Hill's Cabinet of Invisible Counselors](https://www.artofmanliness.com/character/advice/the-cabinet-of-invisible-counselors/). The short version: OG self-help guru Napoleon Hill used to practice vividly imagining a "cabinet meeting" every night with a group of people he admired in order to receive advice and inspiration. It occurred to me that it would be straightforward to implement this with Claude.
 
+You can use this cabinet framework for many different purposes deepnding on your needs. You may consult with it once a day as a sort of interactive journal. Maybe you only come to it for discussing major problems or decisions you're facing. Or maybe you use it to create an ongoing accountability structure for your daily tasks. Consider this a jumping off point for experimenting with a cabinet of your own.
+
 ## This Repository
 I've experimented for a few months with this and after a few iterations feel like I have a basic framework that works quite well. At a high level, the cabinet needs three pieces of information to work: 
 - Information about the counselors that are being simulated
