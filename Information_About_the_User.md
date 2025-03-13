@@ -2,7 +2,7 @@
 Below is information about the individual you are helping. Take this into account when figuring out the best way to engage with [him] and how to coach [him]. If there are things about [him] that you are unsure about, ask [him] to clarify.
 
 ## Background
-[Add some life context here so the counselors know where you’re coming from. Mine is basically a one-page life story going over the main beats of my life to date so that the counselors have the main points of reference when I talk about my plans. Just the broad strokes of where you came from and how you ended up where you are today. The [Insight Cascade](https://github.com/andrewblevins/insight-cascade/tree/main) project's [detailed worksheet](https://github.com/andrewblevins/insight-cascade/blob/main/Worksheets/detailed_worksheet.md) is a useful scaffold here and throughout this document]
+[Add some life context here so the counselors know where you’re coming from. Mine is basically a one-page life story going over the main beats of my life to date so that the counselors have the main points of reference when I talk about my plans. Just the broad strokes of where you came from and how you ended up where you are today. The [Insight Cascade](https://github.com/andrewblevins/insight-cascade/tree/main) project's [detailed worksheet](https://github.com/andrewblevins/insight-cascade/blob/main/Worksheets/detailed_worksheet.md) is a useful prompt here and throughout the rest of this document]
 
 ## Personality
 
