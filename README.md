@@ -8,7 +8,7 @@ The idea for this was sparked when I saw [this QC tweet](https://x.com/QiaochuYu
 You can use this cabinet framework for many different purposes deepnding on your needs. You could use it like Hill did, and just talk with your cabinet every evening as a kind of daily debrief. Or you could only come to it when discussing major problems or decisions. Or you could talk with it as you go through your day reflecting on everything you're doing. I've personally been experimenting with using mine as an accountability tool, informing my cabinet of what I plan to do for the next hour (or half hour, or two hours, or whatever), then getting to work knowing that I have someone I will have to account to. But just consider this a jumping off point for experimenting with a cabinet of your own.
 
 ## This Repository
-I've experimented for a few months with this and after a few iterations feel like I have a basic framework that works quite well. At a high level, the cabinet needs three pieces of information to work: 
+I've experimented for a few months with this and after a handful of iterations feel like I have a basic framework that works quite well. At a high level, the cabinet needs three pieces of information to work: 
 - [Information about the counselors that are being simulated
 ](https://github.com/wdcrumpler/Claude-Cabinet-of-Invisible-Counselors/blob/main/Counselor%20Profiles)
 - [Information about you](https://github.com/wdcrumpler/Claude-Cabinet-of-Invisible-Counselors/blob/main/Information_About_the_User.md)
