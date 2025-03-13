@@ -10,11 +10,8 @@ You may want to just consult with it once a day as a sort of interactive journal
 
 ## This Repository
 I've experimented for a few months with this and after a few iterations feel like I have a basic framework that works quite well. At a high level, the cabinet needs three pieces of information to work: 
-- Information about the counselors that are being simulated
-- Information about you
+[- Information about the counselors that are being simulated
+](https://github.com/wdcrumpler/Claude-Cabinet-of-Invisible-Counselors/blob/main/Counselor%20Profiles)- Information about you
 - Information about what they are supposed to be doing an how they will be interacting with you
 
-This information should be added to a Claude project's knowledge base to serve as the foundation for the cabinet. It can be added as three separate documents or one full document. I've included templates in this repo for the [counselor profiles](https://github.com/wdcrumpler/Claude-Cabinet-of-Invisible-Counselors/blob/main/Counselor%20Profiles), Information about the User, and Cabinet Task at the included links. The templates include some general prompts about how to fill in each document, but ultimately the work of writing these background materials will be up to each person. The more detail you give, the better your results. For context, my current prompt doc is 16 pages and about 8,600 words long. But don't get so hung up on writing the perfect backgrounders that you don't start actually using the thing. You can always go back and update the documents, adding more material and tweaking the task parameters. You should see this as an iterative process, so feel free to just boot it up with only a couple of counselors, a page of background about your goals, and a generic framework for how you want to work with it. 
-
-## Who Should My Counselors Be? 
-
+This information should be added to a Claude project's knowledge base to serve as the foundation for the cabinet. It can be added as three separate documents or one full document. I've included templates in this repo for the counselor profiles, information about the user, and cabinet task in the links above. The templates include some general prompts about how to fill in each document, but ultimately the work of writing these background materials will be up to each person. The more detail you give, the better your results. For context, my current prompt doc is 16 pages and about 8,600 words long. But don't get so hung up on writing the perfect backgrounders that you don't start actually using the thing. You can always go back and update the documents, adding more material and tweaking the task parameters. You should see this as an iterative process, so feel free to just boot it up with only a couple of counselors, a page of background about your goals, and a generic framework for how you want to work with it. 
